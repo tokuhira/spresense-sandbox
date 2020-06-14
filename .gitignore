@@ -1,0 +1,10 @@
+# Build
+out/
+.built
+.depend
+Make.dep
+*.o
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
