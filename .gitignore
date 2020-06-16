@@ -8,3 +8,4 @@ Make.dep
 # Visual Studio Code
 .vscode/
 *.code-workspace
+*.debug
